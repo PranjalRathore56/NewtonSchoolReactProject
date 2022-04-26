@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewtonSchoolReactProject/static/css/main.761cb284.css",
+    "main.js": "/NewtonSchoolReactProject/static/js/main.30d52f95.js",
+    "static/js/787.7a1ea751.chunk.js": "/NewtonSchoolReactProject/static/js/787.7a1ea751.chunk.js",
+    "index.html": "/NewtonSchoolReactProject/index.html",
+    "main.761cb284.css.map": "/NewtonSchoolReactProject/static/css/main.761cb284.css.map",
+    "main.30d52f95.js.map": "/NewtonSchoolReactProject/static/js/main.30d52f95.js.map",
+    "787.7a1ea751.chunk.js.map": "/NewtonSchoolReactProject/static/js/787.7a1ea751.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761cb284.css",
+    "static/js/main.30d52f95.js"
+  ]
+}
